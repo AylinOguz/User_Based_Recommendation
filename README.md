@@ -1,4 +1,4 @@
-# User_Based_Recommendation
+# User Based Recommendation
 ![image](https://github.com/AylinOguz/User_Based_Recommendation/blob/main/user_based.png?raw=true)
 
 User-Based Movie Recommendation System
